@@ -25,7 +25,7 @@
 
     <?php echo "<p>Can you display a sentence with ' and \"?</p>" ?>
 
-    <?php echo "<img src=\"php-logo.png\">" ?>
+    <?php echo "<img src=\"../images/php-logo.png\">" ?>
 
     <?php 
         $linkName = "Redirect To GitHub";
